@@ -24,7 +24,7 @@ The basis of this ability is the encoding of data as a graph where each data poi
 |----------|--------|--------------|
 | Male023  | SBLS   |  Hip         |
 
-This table indicates that a subject was given a task, in this case the Salthouse and Babcock Listening Span task (SBLS), and showed activation in the hippocampus (Hip).  To interpret this data, a human would need a key to the abbreviations, but would easily be able to supply the relationships among the different data points.  But while a computer can easily read across the row to know that SBLS and Hip go with Male023, the nature of the relationship among the variables is not machine readable.
+This table indicates that a subject was given a task, in this case the Salthouse and Babcock Listening Span task (SBLS), and showed activation in the hippocampus (Hip).  To interpret this data, a human would need a key to the abbreviations, but would easily be able to supply the relationships among the different data points.  But while a computer can easily read across the row to know that SBLS and Hip go with Male023, the nature of the relationship among the variables is not machine-readable.
 
 Let's say that there are two different databases in two different locations.  One, as in the table above, has brain activation as a function of region and task. The second has measured gene expression in different parts of the human brain.
 

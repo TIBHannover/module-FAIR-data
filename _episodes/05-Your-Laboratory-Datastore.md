@@ -57,7 +57,7 @@ While it is recommended that one try and utilize (and potentially contribute to)
 
 > ## Selected External Material
 > #### Introduction to Databases
-> ##### Databases Self Paced MOOC at Stanford Online:
+> ##### Databases Self-Paced MOOC at Stanford Online:
 >
 >   - [Databases](http://online.stanford.edu/course/databases-self-paced)
 >
