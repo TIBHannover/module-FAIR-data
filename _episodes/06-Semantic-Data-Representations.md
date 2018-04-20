@@ -36,7 +36,7 @@ A reasonable question might be:  What brain regions are active in memory tasks t
 
 In order to answer this question, we would go to database 1 and ask for the set of brain regions that are activated by memory tasks.  We may need to go to another source and find a list of tasks that measure memory, because database 1 only lists the name of the test.  We would then go to database 2 and run that list of brain regions to return a list of genes that are expressed in those regions.  Finally, we would match those genes against a list of glutamate receptors.
 
-Those of you who are familiar with working across multiple databases (see episode XXXXX) probably know the problems likely to be encountered. Even assuming that the two databases used the same terminology for brain regions (are "Hip" and "hippocampus" the same?), the query is very time consuming to do.  Note that the human has to do the integration here-there is no way to type a query into your web browser that would do the integration for you.
+Those of you who are familiar with working across multiple databases (see episode XXXXX) probably know the problems likely to be encountered. Even assuming that the two databases used the same terminology for brain regions (are "Hip" and "hippocampus" the same?), the query is very time consuming to do.  Note that the human has to do the integration here. There is no way to type a query into your web browser that would do the integration for you.
 
 In the world of the semantic web (which, in truth, some say is mythical), this query could be done by typing one or two (albeit very complicated) queries into your web browser, using a query language called [SPARQL](https://en.wikipedia.org/wiki/SPARQL). How is that possible?
 
