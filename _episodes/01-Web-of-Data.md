@@ -117,7 +117,7 @@ This linking structure forms a directed, labeled graph, where the edges represen
 [SPARQL](https://en.wikipedia.org/wiki/SPARQL) is the query language that is used to query RDF databases.
 
 **Examples**:
-An RDF triple comprises a subject, predicate and object, each identified by a URI.  In a simple example, a statement such as: Kevin Bacon stars in the movie Footloose can be turned into RDF by coding the subject (Kevin Bacon), the predicate (is star of) and object (Movie:Footloose). A SPARQL query can then be formulated to` Find all movies where "is star of" = Kevin Bacon`.  Note that this example is highly simplified: please refer to [Wikipedia](https://en.wikipedia.org/wiki/Resource_Description_Framework) and [W3C](https://www.w3.org/RDF/) examples for actual coding examples.
+An RDF triple comprises a subject, predicate and object, each identified by a URI.  In a simple example, a statement such as: Kevin Bacon stars in the movie Footloose can be turned into RDF by coding the subject (Kevin Bacon), the predicate (is star of) and object (Movie:Footloose). A SPARQL query can then be formulated to `Find all movies where "is star of" = Kevin Bacon`.  Note that this example is highly simplified: please refer to [Wikipedia](https://en.wikipedia.org/wiki/Resource_Description_Framework) and [W3C](https://www.w3.org/RDF/) examples for actual coding examples.
 
 Although the majority of biomedical data sources have been slow to adopt the [Open Linked Data protocol](http://lod-cloud.net/), a perusal of the Linked Open Data Cloud indicates that life sciences comprises a substantial part of the web of data.
 
