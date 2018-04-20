@@ -48,6 +48,17 @@ Many data repositories have been created for scientific data (see Exercise 1:  F
 
 Types of repositories:  A variety of types of repositories are available, from specialized repositories developed around a specific domain, e.g., NITRC-IR, openfMRI, to general repositories that will take all domains and most data types, e.g., [Zenodo](https://zenodo.org/), [Dryad](https://www.datadryad.org/), [OSF](https://osf.io/), [DataVerse](https://dataverse.org/) (Table 2). Many research institutions are maintaining data repositories for their researchers as well (e.g., University of California DASH).
 
+> ## Challenge: Use [re3data.org](https://www.re3data.org/) to find an as-FAIR-as-possible repository in your fields
+> 
+> Consider some of the details of the FAIR principles: PIDs, licensing, download options for users. Find several potentially useful repositories for your field of study, rank them and explain your ranking criteria.
+>
+> > ## Hint
+> > 
+> > You can browse [by content type](https://www.re3data.org/browse/by-content-type/), [subject](https://www.re3data.org/browse/by-subject/#browse-subject-text) and [country](https://www.re3data.org/browse/by-country/).
+> {: .solution}
+{: .challenge}
+
+
 The advantage of more specific repositories is that they can invest in much more specialized metadata, data models, formats and tools, compared to the more generalist repositories. Because the generalist repositories contain mixtures of different data types across many domains, they have a difficult time harmonizing across different data sets or developing data representations that allow programmatic access to the full data without the need for significant human intervention.
 
 **3) Plan ahead when publishing your data:**  The process and costs associated with publishing research articles are well known to researchers, and they ensure that they include adequate resources within their research proposals to ensure that they can prepare and publish articles.  Data are a lot more varied in size and complexity than research articles, and thought must be given to how they are going to be published before they are collected. For data of a reasonable size, most repositories are still hosting the data free of charge. Some repositories, e.g., NDAR, require a fee to deposit data, but they also provide cost estimates that can be included within grant proposals. In addition to costs, just as with publishing articles, you need to ensure that all parties who have contributed to the data are credited and agree to publishing the data (see below: Data citation).
