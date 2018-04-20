@@ -70,7 +70,7 @@ Here are some things to consider:
   -  Well documented data are easier to understand
   -  Properly formatted data are easier to use in a variety of software,
   -  Data that are shared in established repositories with no or minimally restrictive licenses are easier for others to find and use. (from White et al., 2013)
-  - For more information on FAIR, please see the Web of Data lesson (http://www.reproducibleimaging.org/module-FAIR-data/01-Web-of-Data/)
+  - For more information on FAIR, please see the [Web of Data lesson](https://www.reproducibleimaging.org/module-FAIR-data/01-Web-of-Data/)
 
 #### DataLad
 
