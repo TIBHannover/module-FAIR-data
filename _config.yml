@@ -9,14 +9,16 @@ kind: "lesson"
 title: "Data and the FAIR Principles"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/ReproNim/module-FAIR-data
+# originally: https://github.com/ReproNim/module-FAIR-data
+repo: https://github.com/TIBHannover/module-FAIR-data
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://neurohackweek.github.io/lesson-example', use '/lesson-example'.
 root: "/module-FAIR-data"
 
 # Contact email address.
-email: info@repronim.org
+# originally: info@repronim.org
+email: carpentries@tib.eu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -34,6 +36,8 @@ swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
+TIB_site: "https://tib.eu"
+TIB_github: "https://github.com/TIBHannover"
 
 # Start time in minutes (540 is 09:00 am)
 start_time: 540
