@@ -47,7 +47,7 @@ software change
 
 ### Do I need to code?  What language?
 
-You can learn a lot without coding, however, some of the lessons and exercises will require some coding. So, yes, you should code. We have (mostly) adopted python for the language, it may not be your first choice but we think some knowledge of python coding will help you anyways. We will try to help as much as possible by providing tutorials, examples, and links to installation instructions.
+You can learn a lot without coding, however, some of the lessons and exercises will require some coding. So, yes, you should code. We have (mostly) adopted Python for the language, it may not be your first choice but we think some knowledge of Python coding will help you anyways. We will try to help as much as possible by providing tutorials, examples, and links to installation instructions.
 
 ### ReproNim is truly *open*
 
