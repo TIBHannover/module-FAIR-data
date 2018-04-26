@@ -46,16 +46,14 @@ Funding agencies are starting to require that researchers have a data management
 
 Many data repositories have been created for scientific data (see Exercise 1:  Finding a data repository for your data). Qualified data repositories ensure long term maintenance of the data, generally enforce community standards, and handle things like obtaining an identifier, maintaining a landing page with appropriate descriptive metadata, and providing programmatic access. Many institutions are beginning to provide data management services.
 
-Types of repositories:  A variety of types of repositories are available, from specialized repositories developed around a specific domain, e.g., NITRC-IR, openfMRI, to general repositories that will take all domains and most data types, e.g., [Zenodo](https://zenodo.org/), [Dryad](https://www.datadryad.org/), [OSF](https://osf.io/), [DataVerse](https://dataverse.org/) (Table 2). Many research institutions are maintaining data repositories for their researchers as well (e.g., University of California DASH).
+Types of repositories:  A variety of types of repositories are available, some specialized to a certain field, some general for most data types. The latter are for example [Zenodo](https://zenodo.org/), [Dryad](https://www.datadryad.org/), [OSF](https://osf.io/), and [DataVerse](https://dataverse.org/). Additionally, many research institutions are maintaining data repositories for their researchers as well. But how do you 
+
+[re3data.org](https://www.re3data.org/) to find a repository useful for your dataset or source code. For example: As a medical researcher you may want to use a repository that allows restricted access, in order to protect privacy-sensitive data of patients. Your home institution may have decided to keep the data stored in Europe. Lastly, because you have signed-up to ORCiD, you would like to make use of that. [re3data can fulfill this user story](https://www.re3data.org/search?query=&aidSystems%5B%5D=ORCID&countries%5B%5D=EEC&dataAccess%5B%5D=restricted&subjects%5B%5D=22%20Medicine). 
+Also, you can browse [by content type](https://www.re3data.org/browse/by-content-type/), [subject](https://www.re3data.org/browse/by-subject/#browse-subject-text) and [country](https://www.re3data.org/browse/by-country/#country-view-text).
 
 > ## Challenge: Use [re3data.org](https://www.re3data.org/) to find an as-FAIR-as-possible repository in your fields
 > 
-> Consider some of the details of the FAIR principles: PIDs, licensing, download options for users. Find several potentially useful repositories for your field of study, rank them and explain your ranking criteria.
->
-> > ## Hint
-> > 
-> > You can browse [by content type](https://www.re3data.org/browse/by-content-type/), [subject](https://www.re3data.org/browse/by-subject/#browse-subject-text) and [country](https://www.re3data.org/browse/by-country/).
-> {: .solution}
+> Consider some of the details of the FAIR principles: PIDs, machine-readable download options. Find a potentially useful repositories for your field of study, rank them and explain your ranking criteria.
 {: .challenge}
 
 
