@@ -54,6 +54,13 @@ Also, you can browse [by content type](https://www.re3data.org/browse/by-content
 > ## Challenge: Use [re3data.org](https://www.re3data.org/) to find an as-FAIR-as-possible repository in your fields
 > 
 > Consider some of the details of the FAIR principles: PIDs, machine-readable download options. Find a potentially useful repositories for your field of study, rank them and explain your ranking criteria.
+> 
+> In case you notice wrong or missing information in a re3data record, what would you do?
+> 
+> > ## Hint
+> > 
+> > You'll find a `Submit a change request` link below each record. New repositories can be [`Suggest`ed](https://www.re3data.org/suggest) for inclusiond as well, see also [their FAQ](https://www.re3data.org/faq).
+> {: .solution}
 {: .challenge}
 
 
